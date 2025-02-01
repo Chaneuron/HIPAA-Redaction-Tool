@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+my_venv/
+uploads/
+outputs/
+*.pyc
+.env

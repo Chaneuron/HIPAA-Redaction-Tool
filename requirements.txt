@@ -1,0 +1,13 @@
+# Core Flask dependencies
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Text Processing and OCR
+pytesseract==0.3.10
+spacy==3.7.2
+Pillow==10.1.0
+PyMuPDF==1.23.7
+thefuzz==0.20.0
+
+# You'll also need the spaCy model
+python -m spacy download en_core_web_sm

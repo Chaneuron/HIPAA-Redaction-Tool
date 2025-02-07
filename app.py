@@ -337,6 +337,18 @@ def convert_date_to_patterns(date_str):
             fr"\b{day_num:02d}\s+(?i){month_abbr}\s+{year}\b",
         ]
 
+        # Add strict number patterns
+        strict_number_patterns = [
+            # Strict number patterns with exact digit counts
+            fr"\b{month_num:02d}/{day_num:02d}/{year:04d}\b",
+            fr"\b{month_num:02d}-{day_num:02d}-{year:04d}\b",
+            fr"\b{year:04d}-{month_num:02d}-{day_num:02d}\b",
+            fr"\b{day_num:02d}/{month_num:02d}/{year:04d}\b",
+        ]
+        
+        # Combine both pattern lists
+        patterns.extend(strict_number_patterns)
+
         return patterns
 
     except Exception as e:
@@ -381,16 +393,56 @@ def redact_date_from_text(text, date_patterns, redacted_words=None):
     result = ' '.join(words)
     return result
 
+def match_exact_dob(text, dob_str):
+    """Only match exact date of birth format MM/DD/YYYY"""
+    try:
+        from datetime import datetime
+        # Parse the input DOB
+        dob = datetime.strptime(dob_str, "%m/%d/%Y")
+        
+        # Create exact pattern for MM/DD/YYYY format
+        pattern = fr"\b{dob.month:02d}/{dob.day:02d}/{dob.year:04d}\b"
+        
+        matches = re.finditer(pattern, text)
+        matched_dates = []
+        for match in matches:
+            matched_dates.append(match.group())
+            
+        return matched_dates
+    except:
+        return []
+
 def redact_sensitive_info(text, phi_fields):
-    # Split text into paragraphs while preserving structure
-    paragraphs = text.split('\n')
+    # Split text keeping original line breaks
+    paragraphs = text.splitlines(True)  # True keeps the line endings
     redacted_paragraphs = []
     redacted_words = set()
+    
+    in_header = False
+    in_list = False
+    prev_line_empty = False
     
     # Check if any PHI fields are populated
     any_phi_fields = any(value.strip() for value in phi_fields.values())
     
     for paragraph in paragraphs:
+        original_spacing = ''
+        while paragraph.startswith(' '):
+            original_spacing += ' '
+            paragraph = paragraph[1:]
+            
+        # Preserve empty lines
+        if not paragraph.strip():
+            redacted_paragraphs.append(paragraph)
+            prev_line_empty = True
+            continue
+            
+        # Identify formatting patterns
+        is_date_header = re.match(r'\d{2}/\d{2}/\d{4}\s*-', paragraph)
+        is_section_header = paragraph.strip().isupper() and len(paragraph.strip()) > 3
+        is_bullet_point = paragraph.strip().startswith('•') or paragraph.strip().startswith('-')
+        is_provider_entry = re.match(r'(Provider|Author|Editor):', paragraph)
+
         if paragraph.strip():  # Only process non-empty paragraphs
             doc = nlp(paragraph)
             redacted_paragraph = paragraph
@@ -400,25 +452,40 @@ def redact_sensitive_info(text, phi_fields):
                 # Redact user-specified fields
                 for field, value in phi_fields.items():
                     if value:
-                        values = [v.strip() for v in value.split(',')]
+                        values = [v.strip() for v in value.split(';')]
                         for v in values:
                             if v:
                                 if field == "name":
                                     name_parts = v.split()
-                                    patterns = [
-                                        r'\b' + re.escape(v) + r'\b',
-                                        r'\b' + re.escape(' '.join(name_parts[0:2])) + r'\b',
-                                        r'\b' + re.escape(name_parts[0]) + r'(?:\s+[A-Z]\.?\s+)?' + re.escape(name_parts[-1]) + r'\b',
-                                        r'\b' + re.escape(name_parts[0]) + r'(?:\s+\w+){0,2}\s+' + re.escape(name_parts[-1]) + r'\b',
-                                        r'\b' + re.escape(name_parts[0]) + r'\s+' + re.escape(name_parts[-1]) + r'\b'
-                                    ]
+                                    # Create variations of the name
+                                    name_variations = set()
                                     
-                                    redacted_words.add(v)
-                                    for part in name_parts:
-                                        redacted_words.add(part)
+                                    # Original format
+                                    name_variations.add(v)
                                     
-                                    for pattern in patterns:
-                                        redacted_paragraph = re.sub(pattern, "[REDACTED]", redacted_paragraph, flags=re.IGNORECASE)
+                                    # First Last and FIRST LAST
+                                    if len(name_parts) >= 2:
+                                        name_variations.add(f"{name_parts[0]} {name_parts[-1]}")
+                                        name_variations.add(f"{name_parts[0].upper()} {name_parts[-1].upper()}")
+                                        
+                                        # Last, First and LAST, FIRST
+                                        name_variations.add(f"{name_parts[-1]}, {name_parts[0]}")
+                                        name_variations.add(f"{name_parts[-1].upper()}, {name_parts[0].upper()}")
+                                        
+                                        # Individual parts and their uppercase versions
+                                        for part in name_parts:
+                                            name_variations.add(part)
+                                            name_variations.add(part.upper())
+                                    
+                                    # Add all variations to redacted_words
+                                    redacted_words.update(name_variations)
+                                    
+                                    # Create patterns for each variation
+                                    for variation in name_variations:
+                                        pattern = r'\b' + re.escape(variation) + r'\b'
+                                        redacted_paragraph = re.sub(pattern, "[REDACTED]", 
+                                                                  redacted_paragraph, 
+                                                                  flags=re.IGNORECASE)
                                     
                                     # Apply fuzzy matching with stricter threshold
                                     words = redacted_paragraph.split()
@@ -429,16 +496,24 @@ def redact_sensitive_info(text, phi_fields):
                                                 if fuzz.ratio(v.lower(), phrase.lower()) > 85:
                                                     redacted_words.add(phrase)
                                                     words[i:i+j] = ['[REDACTED]']
-                                                elif any(fuzz.partial_ratio(name_part.lower(), phrase.lower()) > 85 for name_part in name_parts):
-                                                    redacted_words.add(phrase)
-                                                    words[i:i+j] = ['[REDACTED]']
+                                                    break
+                                    
                                     redacted_paragraph = ' '.join(words)
                                 
-                                elif field == "dob" or field == "date":
+                                elif field == "dob":
                                     date_patterns = convert_date_to_patterns(v)
                                     redacted_words.add(v)
-                                    redacted_paragraph = redact_date_from_text(redacted_paragraph, date_patterns, redacted_words)
-                                
+                                    # Only match exact date formats, no partial matches
+                                    for pattern in date_patterns:
+                                        matches = re.finditer(pattern, redacted_paragraph)
+                                        for match in matches:
+                                            matched_text = match.group()
+                                            if '/' in matched_text or '-' in matched_text:
+                                                parts = re.split(r'[/-]', matched_text)
+                                                if len(parts) == 3 and all(part.isdigit() for part in parts):
+                                                    redacted_words.add(matched_text)
+                                                    redacted_paragraph = redacted_paragraph.replace(matched_text, "[REDACTED]")
+
                                 elif field == "other_identifier":
                                     redacted_words.add(v)
                                     
@@ -459,17 +534,19 @@ def redact_sensitive_info(text, phi_fields):
                                     words = redacted_paragraph.split()
                                     for i in range(len(words)):
                                         # Single word matching
-                                        if fuzz.ratio(v.lower(), words[i].lower()) > 99:
-                                            redacted_words.add(words[i])
-                                            words[i] = '[REDACTED]'
+                                        if i < len(words):  # Add this check
+                                            if fuzz.ratio(v.lower(), words[i].lower()) > 85:
+                                                redacted_words.add(words[i])
+                                                words[i] = '[REDACTED]'
                                         
                                         # Multi-word matching
                                         for j in range(2, min(5, len(words) - i + 1)):
-                                            phrase = ' '.join(words[i:i+j])
-                                            if fuzz.ratio(v.lower(), phrase.lower()) > 99:
-                                                redacted_words.add(phrase)
-                                                words[i:i+j] = ['[REDACTED]']
-                                                break
+                                            if i + j <= len(words):  # Add this check
+                                                phrase = ' '.join(words[i:i+j])
+                                                if fuzz.ratio(v.lower(), phrase.lower()) > 85:
+                                                    redacted_words.add(phrase)
+                                                    words[i:i+j] = ['[REDACTED]']
+                                                    break
                                     
                                     redacted_paragraph = ' '.join(words)
                                     
@@ -488,13 +565,40 @@ def redact_sensitive_info(text, phi_fields):
                         if ent.label_ == "DATE":
                             redacted_words.add(ent.text)
                             redacted_paragraph = redacted_paragraph.replace(ent.text, "[REDACTED]")
-            
-            redacted_paragraphs.append(redacted_paragraph)
-        else:
-            # Preserve empty paragraphs
-            redacted_paragraphs.append(paragraph)
 
-    return '\n'.join(redacted_paragraphs), sorted(list(redacted_words))
+            # Preserve formatting based on line type
+            if is_date_header:
+                redacted_paragraph = original_spacing + redacted_paragraph
+                if not prev_line_empty:
+                    redacted_paragraph = '\n' + redacted_paragraph
+            
+            elif is_section_header:
+                redacted_paragraph = original_spacing + redacted_paragraph.upper()
+                if not prev_line_empty:
+                    redacted_paragraph = '\n\n' + redacted_paragraph
+            
+            elif is_bullet_point:
+                redacted_paragraph = original_spacing + '• ' + redacted_paragraph.lstrip('•').lstrip('-').lstrip()
+            
+            elif is_provider_entry:
+                redacted_paragraph = original_spacing + redacted_paragraph
+                if not prev_line_empty:
+                    redacted_paragraph = '\n' + redacted_paragraph
+
+            redacted_paragraphs.append(redacted_paragraph)
+            prev_line_empty = False
+
+    # Join with proper spacing
+    final_text = ''
+    for i, para in enumerate(redacted_paragraphs):
+        if i > 0:
+            # Add extra newline before headers and after sections
+            if (any(header in para for header in ['DISCHARGE', 'ADMISSION', 'DIAGNOSES']) or
+                para.strip().isupper()):
+                final_text += '\n'
+        final_text += para
+
+    return final_text, sorted(list(redacted_words))
 
 def calculate_metrics(original_text, redacted_text, phi_fields):
     metrics = {}

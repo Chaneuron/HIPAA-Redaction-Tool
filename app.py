@@ -17,13 +17,24 @@ from datetime import timedelta
 nlp = spacy.load("en_core_web_sm")
 
 # Add at the top of app.py after your imports
-DEMO_ACCESS = {'granted': False}  # Simple state holder
+#DEMO_ACCESS = {'granted': False}  # Simple state holder
 
 app = Flask(__name__, template_folder='templates')
+
+@app.after_request
+def after_request(response):
+    response.headers['ngrok-skip-browser-warning'] = 'any value'
+    response.headers['Access-Control-Allow-Origin'] = '*'
+    response.headers['Access-Control-Allow-Headers'] = 'Content-Type'
+    response.headers['Access-Control-Allow-Methods'] = 'GET, POST'
+    return response
+
 app.secret_key = 'supersecretkey'
 app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['OUTPUT_FOLDER'] = 'outputs'
 app.config['ALLOWED_EXTENSIONS'] = {'png', 'jpg', 'jpeg', 'pdf'} 
+
+
 
 # Set the path to the Tesseract executable
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -32,31 +43,45 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in app.config['ALLOWED_EXTENSIONS']
 
+
+
+#@app.route('/')
+#def index():
+ #   if not DEMO_ACCESS['granted']:
+ #       return render_template('register.html')
+ #   return render_template('index.html')
+
 @app.route('/')
 def index():
-    if not DEMO_ACCESS['granted']:
-        return render_template('register.html')
     return render_template('index.html')
 
-@app.route('/register')
-def register():
-    return render_template('register.html')
+@app.after_request
+def after_request(response):
+    response.headers.add('ngrok-skip-browser-warning', 'true')
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    response.headers.add('Access-Control-Allow-Headers', '*')
+    response.headers.add('Access-Control-Allow-Methods', '*')
+    return response
 
-@app.route('/check_access', methods=['POST'])
-def check_access():
-    code = request.form.get('access_code')
-    if code == "HIPAA2024":
-        DEMO_ACCESS['granted'] = True
-        return render_template('index.html')
-    return render_template('register.html')
+#@app.route('/register')
+#def register():
+#    return render_template('register.html')
+
+#@app.route('/check_access', methods=['POST'])
+#def check_access():
+#    code = request.form.get('access_code')
+#    if code == "HIPAA2024":
+        #DEMO_ACCESS['granted'] = True
+#        return render_template('index.html')
+#    return render_template('register.html')
 
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
     start_time = time.time()
     
-    if not DEMO_ACCESS['granted']:
-        return render_template('register.html')
+    #if not DEMO_ACCESS['granted']:
+    #    return render_template('register.html')
     
     try:
         if 'file' not in request.files:
@@ -535,7 +560,7 @@ def redact_sensitive_info(text, phi_fields):
                                     for i in range(len(words)):
                                         # Single word matching
                                         if i < len(words):  # Add this check
-                                            if fuzz.ratio(v.lower(), words[i].lower()) > 85:
+                                            if fuzz.ratio(v.lower(), words[i].lower()) > 70:
                                                 redacted_words.add(words[i])
                                                 words[i] = '[REDACTED]'
                                         

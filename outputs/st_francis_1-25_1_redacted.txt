@@ -1,0 +1,2753 @@
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg
+
+
+
+FACESHEET
+Patient Demographics
+Hospital Account
+Name
+Acct ID
+Class
+Status
+Primary Coverage
+Gallardo, Jesus Michael Jr.
+2301583980
+Inpatient
+Closed
+
+
+
+MEDICARE -
+
+
+
+MEDICARE PART A
+
+
+
+AND B
+Guarantor Account (for Hospital Account #2301583980)
+Name
+Relation to
+Pt
+Service Area
+Active?
+Acct Type
+Gallardo, Jesus Michael Jr.
+Self
+
+CEN
+Yes
+Personal/Family
+Address
+Phone
+
+
+
+115 W 5TH ST
+
+
+
+FLORENCE, CO 81226
+
+
+
+719-784-4443(H)
+Coverage Information (for Hospital Account #2301583980)
+Printed by 23573 at 4/2/24  9:28 AM
+Page  1
+
+SSN
+Gender Identity
+Birth Date
+Reg Status
+
+PCP
+Date Last Verified
+Next Review Date
+Verified
+Joseph Thomas
+McGarry, MD719-784-
+4816
+03/22/24
+05/21/24
+Gallardo, Jesus Michael
+Jr. "Jes"
+
+
+
+CEUL0641381
+Religion
+Language
+Catholic
+English
+xxx-xx-6010
+Male
+05/01/42 (81 yrs)
+Emergency Contact 1
+Emergency Contact 2
+Tonilynn Gallardo (Spouse)
+
+
+
+115 W 5TH ST
+
+
+
+FLORENCE CO 81226
+
+US
+
+
+
+719-784-4443 (H)
+
+
+
+719-650-5142 (M)
+Richard Gallardo (Son)
+
+
+
+115 W 5TH ST
+
+
+
+FLORENCE CO 81226
+
+US
+
+
+
+719-650-4185 (H)
+Name
+Patient ID
+
+
+
+1. MEDICARE/MEDICARE PART A AND B
+F/O Payor/Plan
+Precert #
+
+
+
+MEDICARE/MEDICARE PART A AND B
+Subscriber
+Subscriber #
+Gallardo, Jesus Michael Jr.
+
+
+
+9PU1FV0PX21
+Address
+Phone
+
+
+
+PO BOX 890107
+
+
+
+PART A CLAIMS
+
+
+
+CAMP HILL, PA 17089-0107
+855-252-8782
+Address
+Phone
+Email
+
+
+
+2. MUTUAL OF OMAHA/MUTUAL OF OMAHA
+F/O Payor/Plan
+Precert #
+
+
+
+MUTUAL OF OMAHA/MUTUAL OF OMAHA
+Subscriber
+Subscriber #
+Gallardo, Jesus Michael Jr.
+562637-99
+
+
+
+115 W 5TH ST
+
+
+
+FLORENCE CO 81226
+
+
+
+719-784-4443 (H)
+
+
+
+719-784-4443 (M)
+lynn45@earthlink.net
+
+
+
+ST FRANCIS_R_000001
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg
+FACESHEET (continued)
+Coverage Information (for Hospital Account #2301583980) (continued)
+Admission Information
+Arrival Date/Time:
+Admit Date/Time:
+10/30/2023 0614
+IP Adm. Date/Time:
+10/30/2023 1450
+Admission Type:
+Elective
+Point of Origin:
+Home
+Admit Category:
+Means of Arrival:
+Primary Service:
+Orthopedics
+Secondary Service:
+
+N/A
+Transfer Source:
+Service Area:
+
+
+
+CENTURA SERVICE
+
+
+
+AREA
+Unit:
+St. Francis Medical
+Center 6N
+Ortho/Surg
+Admit Provider:
+Douglas Carl
+Crowther, DO
+Attending Provider:
+Douglas Carl
+Crowther, DO
+Referring Provider:
+Discharge Information
+Discharge Date/Time
+Discharge Disposition
+Discharge Destination
+Discharge Provider
+Unit
+11/03/2023 1800
+*Rehab Facility -- Internal
+None
+Douglas Carl Crowther,
+
+DO
+St. Francis Medical
+Center 6N Ortho/Surg
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Reason for Visit
+Spinal cord stimulator status (primary)
+·
+Visit Information
+Printed by 23573 at 4/2/24  9:28 AM
+Page  2
+S/P insertion of spinal cord stimulator (primary)
+10/30/2023
+—
+Exempt from POA
+reporting
+Coronary artery disease involving native coronary
+artery of native heart
+10/30/2023
+—
+Yes
+Gastroesophageal reflux disease without esophagitis
+10/30/2023
+—
+Yes
+History of BPH
+10/30/2023
+—
+Yes
+Hyperlipidemia
+10/30/2023
+—
+Yes
+Hypertension
+10/30/2023
+—
+Yes
+Parkinson's disease (CMS/HCC)
+10/30/2023
+—
+Yes
+Type 2 diabetes mellitus, without long-term current
+use of insulin (CMS/HCC)
+10/30/2023
+—
+Yes
+Address
+Phone
+
+
+
+3316 FARNAM STREET
+
+
+
+OMAHA, NE 68175
+303-360-9600
+Visit Diagnosis
+Admission Information
+Arrival Date/Time:
+Admit Date/Time:
+10/30/2023 0614
+IP Adm. Date/Time:
+10/30/2023 1450
+Admission Type:
+Elective
+Point of Origin:
+Home
+Admit Category:
+Means of Arrival:
+Primary Service:
+Orthopedics
+Secondary Service:
+
+N/A
+Transfer Source:
+Service Area:
+
+
+
+CENTURA
+
+
+
+SERVICE AREA
+Unit:
+St. Francis Medical
+Center 6N
+Ortho/Surg
+Admit Provider:
+Douglas Carl
+Crowther, DO
+Attending Provider:
+Douglas Carl
+Crowther, DO
+Referring Provider:
+Discharge Information
+Date/Time: 11/03/2023 1800
+Disposition: *Rehab Facility -- Internal
+Destination: —
+
+Provider: Douglas Carl Crowther, DO
+Unit: St. Francis Medical Center 6N Ortho/Surg
+Hospital Problems
+Follow-up Information
+Follow up With
+Specialties
+Details
+Why
+Contact Info
+Name
+Date Noted
+Date Resolved
+Present on Admission?
+
+
+
+ST FRANCIS_R_000002
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Visit Information (continued)
+Coding Summary
+Printed by 23573 at 4/2/24  9:28 AM
+Page  3
+6001 E Woodmen Rd
+Colorado Springs
+Colorado 80923
+719-571-6600
+Account Information
+Hospital Account
+Primary Payor
+Affiliated Recurring Accounts
+Combined from HAR
+2301583980 -
+
+
+
+GALLARDO,JESUS
+
+
+
+MICHAEL JR.
+
+
+
+MEDICARE [1000]
+None
+None
+Joseph Thomas
+McGarry, MD
+Family Medicine
+Admission Information
+Arrival Date/Time:
+Admit Date/Time:
+10/30/2023 0614
+IP Adm. Date/Time:
+10/30/2023 1450
+Admission Type:
+Elective
+Point of Origin:
+Home
+Admit Category:
+Means of Arrival:
+Primary Service:
+Orthopedics
+Secondary Service:
+Transfer Source:
+Service Area:
+
+
+
+CENTURA
+
+
+
+SERVICE AREA
+Unit:
+St. Francis Medical
+Center 6N
+Ortho/Surg
+Admit Provider:
+Douglas Carl
+Crowther, DO
+Attending Provider:
+Douglas Carl
+Crowther, DO
+Referring Provider:
+501 W 5th St
+Florence CO 81226-
+1226
+719-784-4816
+Discharge Information
+Discharge Date/Time
+Discharge Disposition
+Discharge Destination
+Discharge Provider
+Unit
+11/03/2023 1800
+*Rehab Facility --
+Internal
+None
+Douglas Carl Crowther,
+
+DO
+St. Francis Medical
+Center 6N Ortho/Surg
+Admission Diagnoses / Reasons for Visit (ICD-10-CM)
+Code
+Description
+Comments
+
+
+
+G97.61
+Postprocedural hematoma of a nervous system organ or structure
+following a nervous system procedure
+Brianne Elizabeth
+Wagner, NP
+Nurse Practitioner,
+Orthopedic Surgery
+Follow up in 2 week(s)
+Final Diagnoses (ICD-10-CM)
+Code
+Description
+
+POA
+
+CC
+
+HAC
+Affects
+
+DRG
+
+
+
+G97.61
+[Principal]
+Postprocedural hematoma of a nervous system organ or structure
+following a nervous system procedure
+Yes
+No
+Yes
+
+
+
+I16.1
+Hypertensive emergency
+Yes
+
+CC
+Yes
+
+
+
+G20.A1
+Parkinson's disease without dyskinesia, without mention of
+fluctuations
+Yes
+No
+No
+
+
+
+G83.9
+Paralytic syndrome, unspecified (CMS/HCC)
+Yes
+No
+No
+
+
+
+I97.3
+Postprocedural hypertension
+Yes
+No
+No
+
+
+
+E11.9
+Type 2 diabetes mellitus without complications (CMS/HCC)
+Yes
+No
+No
+
+
+
+M48.04
+Spinal stenosis, thoracic region
+Yes
+No
+No
+
+Z23
+Encounter for immunization
+Exempt
+from
+
+POA
+reporting
+No
+No
+2446 Research Pkwy
+Ste 200
+Colorado Springs CO
+80920-1087
+719-623-1050
+Capron Neuro and
+Trauma Rehabilitation
+Center
+Follow up
+
+
+
+ST FRANCIS_R_000003
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Coding Summary (continued)
+Printed by 23573 at 4/2/24  9:28 AM
+Page  4
+
+
+
+G62.9
+Polyneuropathy, unspecified
+Yes
+No
+No
+
+
+
+M54.9
+Dorsalgia, unspecified
+Yes
+No
+No
+
+
+
+I25.10
+Atherosclerotic heart disease of native coronary artery without
+angina pectoris
+Yes
+No
+No
+
+
+
+E78.5
+Hyperlipidemia, unspecified
+Yes
+No
+No
+
+
+
+N40.1
+Benign prostatic hyperplasia with lower urinary tract symptoms
+Yes
+No
+No
+
+
+
+R33.8
+Other retention of urine
+Yes
+No
+No
+
+
+
+K21.9
+Gastro-esophageal reflux disease without esophagitis
+Yes
+No
+No
+
+
+
+R53.82
+Chronic fatigue, unspecified
+Yes
+No
+No
+
+
+
+Y83.8
+Other surgical procedures as the cause of abnormal reaction of
+the patient, or of later complication, without mention of
+misadventure at the time of the procedure
+Yes
+No
+No
+
+
+
+Y92.238
+Other place in hospital as the place of occurrence of the external
+cause
+Yes
+No
+No
+
+
+
+Z79.84
+Long term (current) use of oral hypoglycemic drugs
+Exempt
+from
+
+POA
+reporting
+No
+No
+
+
+
+Z79.82
+Long term (current) use of aspirin
+Exempt
+from
+
+POA
+reporting
+No
+No
+
+
+
+I25.2
+Old myocardial infarction
+Exempt
+from
+
+POA
+reporting
+No
+No
+
+
+
+Z95.5
+Presence of coronary angioplasty implant and graft
+Exempt
+from
+
+POA
+reporting
+No
+No
+
+
+
+Z87.891
+Personal history of nicotine dependence
+Exempt
+from
+
+POA
+reporting
+No
+No
+
+
+
+Z83.3
+Family history of diabetes mellitus
+Exempt
+from
+
+POA
+reporting
+No
+No
+
+
+
+G89.4
+Chronic pain syndrome
+Yes
+No
+External Causes of Injury (ICD-10-CM)
+Code
+Description
+
+POA
+
+CC
+
+HAC
+Affects
+
+DRG
+
+
+
+Y83.8
+Other surgical procedures as the cause of abnormal reaction of
+the patient, or of later complication, without mention of
+misadventure at the time of the procedure
+Yes
+No
+No
+
+
+
+Y92.238
+Other place in hospital as the place of occurrence of the external
+cause
+Yes
+No
+No
+No
+ICD Procedures (ICD-10-PCS)
+Code
+Description
+Date
+Performing Provider
+Px Event
+
+
+
+00CU0ZZ
+Extirpation of Matter from Spinal Canal, Open
+Approach
+10/30/2023
+Douglas Carl Crowther, DO
+
+
+
+0JH80BZ
+Insert Singl Array Stim Gen in Abd Subcu/Fascia,
+Open
+10/30/2023
+Douglas Carl Crowther, DO
+
+
+
+00HU0MZ
+Insertion of Neuro Lead into Spinal Canal, Open
+Approach
+10/30/2023
+Douglas Carl Crowther, DO
+
+
+
+01N80ZZ
+Release Thoracic Nerve, Open Approach
+10/30/2023
+Douglas Carl Crowther, DO
+
+
+
+0JPT0MZ
+Removal of Stim Gen from Trunk Subcu/Fascia,
+Open Approach
+10/30/2023
+Douglas Carl Crowther, DO
+
+I10
+Essential (primary) hypertension
+Yes
+No
+No
+
+
+
+ST FRANCIS_R_000004
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Coding Summary (continued)
+CDI Queries
+Printed by 23573 at 4/2/24  9:28 AM
+Page  5
+
+
+
+00HU0MZ
+Insertion of Neuro Lead into Spinal Canal, Open
+Approach
+11/02/2023
+Douglas Carl Crowther, DO
+
+
+
+00PU0MZ
+Removal of Neuro Lead from Spinal Canal, Open
+Approach
+10/30/2023
+Douglas Carl Crowther, DO
+DRG Information
+
+DRG
+DRG Type
+Qualifier
+Weight
+
+MDC
+
+LOS
+
+SOI
+
+ROM
+Exp Reimb
+908  [Billing]
+
+
+
+MS-DRG V41 10-01-
+2023
+2.0041
+021
+4
+43,147.48
+Description: OTHER O.R. PROCEDURES FOR INJURIES WITH CC
+908
+
+
+
+MS-DRG V41 10-01-
+2023
+HAC Dx Included
+2.0041
+021
+4
+43,147.48
+Description: OTHER O.R. PROCEDURES FOR INJURIES WITH CC
+792
+
+
+
+APRDRGV41
+1.5605
+021
+4
+2
+2
+0.00
+Description: EXTENSIVE O.R. PROCEDURES FOR OTHER COMPLICATIONS OF TREATMENT
+792
+
+
+
+APRDRGV41
+Admission DRG
+1.5605
+021
+4
+2
+2
+0.00
+Description: EXTENSIVE O.R. PROCEDURES FOR OTHER COMPLICATIONS OF TREATMENT
+792
+
+
+
+APRDRGV41
+
+
+
+PPC DRG
+1.5605
+021
+4
+2
+2
+0.00
+Description: EXTENSIVE O.R. PROCEDURES FOR OTHER COMPLICATIONS OF TREATMENT
+792
+
+
+
+APRDRGV41
+PPC Admit DRG
+021
+4
+0.00
+Description: EXTENSIVE O.R. PROCEDURES FOR OTHER COMPLICATIONS OF TREATMENT
+791
+
+
+
+APRDRGV33
+2.6952
+021
+4
+3
+2
+0.00
+Description: O.R. PROCEDURE FOR OTHER COMPLICATIONS OF TREATMENT
+791
+
+
+
+APRDRGV33
+HAC Dx Included
+2.6952
+021
+4
+3
+2
+0.00
+Description: O.R. PROCEDURE FOR OTHER COMPLICATIONS OF TREATMENT
+791
+
+
+
+APRDRGV33
+Admission DRG
+2.6952
+021
+4
+3
+2
+0.00
+Description: O.R. PROCEDURE FOR OTHER COMPLICATIONS OF TREATMENT
+
+
+
+0PB40ZZ
+Excision of Thoracic Vertebra, Open Approach
+11/02/2023
+Douglas Carl Crowther, DO
+
+
+
+00CU0ZZ
+Extirpation of Matter from Spinal Canal, Open
+Approach
+11/02/2023
+Douglas Carl Crowther, DO
+Sender
+Recipients
+Type
+Subject
+Created
+Status
+Outcome
+Responding
+Provider
+Response
+Note
+Michaelene
+Hale
+Douglas Carl
+Crowther, DO
+Accuity
+
+CDI
+Clarificatio
+n 360 Dx
+RE: Accuity
+
+CDI
+Clarification
+
+
+
+360 DX
+11/09/2023
+
+
+
+0942 MST
+Completed
+Recipient
+Disagreed
+Douglas Carl
+Crowther,
+
+DO
+
+
+
+0JH80BZ
+Insert Singl Array Stim Gen in Abd Subcu/Fascia,
+Open
+11/02/2023
+Douglas Carl Crowther, DO
+Query Message
+• Message -----
+From: Douglas Carl Crowther, DO
+Sent: 11/11/2023   8:35 AM MST
+To: Michaelene Hale
+Subject: RE: Accuity CDI Clarification 360 DX
+This is an auto-generated reply.
+The following user has specified that this query has been addressed:
+Douglas Carl Crowther, DO : 11/11/2023 - 08:35 AM
+• Message -----
+From: Michaelene Hale
+Sent: 11/10/2023   9:51 AM MST
+To: Douglas Carl Crowther, DO
+
+
+
+ST FRANCIS_R_000005
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+CDI Queries (continued)
+Treatment Team
+Printed by 23573 at 4/2/24  9:28 AM
+Page  6
+Provider
+Service
+Role
+Provider Team
+Specialty
+From
+To
+Douglas Carl
+Crowther, DO
+Surgery
+Attending
+—
+Orthopedic
+Surgery
+10/30/23 0614
+11/03/23 1800
+Kandra S
+Kendall, PT
+—
+Physical
+Therapist
+—
+Physical Therapy
+11/03/23 0950
+—
+Tara Crews, OT
+—
+Occupational
+Therapist
+—
+Occupational
+Therapy
+11/03/23 0809
+11/03/23 1617
+Sara Cook
+—
+Utilization
+Review Nurse
+—
+—
+11/03/23 0801
+—
+Erica Czufin,
+
+
+
+LCSW
+—
+Social Worker
+—
+Social Services
+11/03/23 0745
+11/03/23 1630
+Mia Velarde,
+Pharmacist
+—
+Pharmacist
+—
+—
+11/03/23 0739
+—
+Emily A Cai,
+Pharmacist
+Medicine
+Pharmacist
+—
+Pharmacy
+11/03/23 0738
+11/03/23 1638
+Chelsey Vincent,
+
+RN
+—
+Registered
+Nurse
+—
+—
+11/03/23 0721
+—
+Abigail Simonton
+—
+Certified Nursing
+Assistant
+—
+—
+11/03/23 0720
+—
+Cheyenne Staab
+—
+Certified Nursing
+Assistant
+—
+—
+11/02/23 2036
+11/03/23 0906
+Elissa Watson,
+
+RN
+—
+Registered
+Nurse
+—
+—
+11/02/23 2008
+11/03/23 0715
+Amy L Plouffe
+—
+Certified Nursing
+—
+—
+11/02/23 1913
+11/02/23 1916
+Subject: Accuity CDI Clarification 360 DX
+Please provide a diagnosis as an addendum to the discharge summary corresponding to the clinical
+evidence listed below such as:
+_Spinal cord edema presents on admission related to severe canal stenosis with mass effect requiring
+treatment with/by IV dexamethasone, Incision/drainage.
+_Other, with explanation of clinical findings.
+_Clinically undetermined.
+Clinical Indicators: Impaired balance/sensation, weakness to core and BLEs. 9 x 14 x 90 mm (AP x TV x
+CC) dorsal epidural hematoma extending from T5-T9, largest at T8 … associated severe canal stenosis,
+mass effect on the spinal cord spanning T7-T8. Longitudinal central cord edema extends from T6-T10.
+Risk Factor(s): Severe canal stenosis, mass effect on the spinal cord spanning T7-T8.
+Treatment: IVF LR bolus/maintenance, incision/drainage/evacuation, orthopedics consult, IV Ancef, IV
+Vancomycin, PT/OT evaluations, IV dexamethasone, monitor labs/VS’s.
+Please clarify and document your clinical opinion as an addendum to the discharge summary including the
+definitive and/or presumptive diagnosis, (suspected or probable), related to the above clinical findings.
+Please include clinical findings supporting your diagnosis.
+Michaelene Hale RN, BSN, NLC, CCDS, CCS
+Office: +1-929-777-3903
+
+
+ST FRANCIS_R_000006
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Treatment Team (continued)
+Printed by 23573 at 4/2/24  9:28 AM
+Page  7
+Dallen David
+Mill, MD
+Surgery
+Anesthesiologist
+—
+Anesthesiology
+11/02/23 1618
+11/02/23 2218
+Mary S Joseph
+—
+Certified Nursing
+Assistant
+—
+—
+11/02/23 0820
+11/02/23 1612
+Ian J Henne, OT
+—
+Occupational
+Therapist
+—
+Occupational
+Therapy
+11/02/23 0805
+11/02/23 1641
+Erica Czufin,
+
+
+
+LCSW
+—
+Social Worker
+—
+Social Services
+11/02/23 0745
+11/02/23 1630
+Mia Velarde,
+Pharmacist
+—
+Pharmacist
+—
+—
+11/02/23 0741
+11/02/23 1905
+Nikole Maier, RN
+—
+Registered
+Nurse
+—
+—
+11/02/23 0700
+11/02/23 2000
+Emika Da Silva,
+
+PT
+—
+Physical
+Therapist
+—
+Physical Therapy
+11/02/23 0615
+11/02/23 1501
+Amy L Plouffe
+—
+Certified Nursing
+Assistant
+—
+—
+11/01/23 1923
+11/02/23 0753
+Julie Englert, RN
+—
+Registered
+Nurse
+—
+—
+11/01/23 1906
+11/02/23 0755
+Ashley M
+Rhoades
+—
+Certified Nursing
+Assistant
+—
+—
+11/01/23 1753
+11/02/23 0645
+Melissa J Smith
+—
+Certified Nursing
+Assistant
+—
+—
+11/01/23 1555
+—
+Melissa J Smith
+—
+Certified Nursing
+Assistant
+—
+—
+11/01/23 0937
+11/01/23 1524
+Tracy M
+Richardson, RN
+—
+Case Manager
+—
+—
+11/01/23 0904
+11/01/23 1934
+Celeste A
+Newstrom, PT
+Physical
+Medicine and
+Rehabilitation
+Physical
+Therapist
+—
+Physical Therapy
+11/01/23 0838
+11/01/23 1705
+Tara Crews, OT
+—
+Occupational
+Therapist
+—
+Occupational
+Therapy
+11/01/23 0829
+11/01/23 1455
+Amber M Larsen,
+
+RN
+—
+Utilization
+Review Nurse
+—
+—
+11/01/23 0812
+11/01/23 0939
+Sara Cook
+—
+Utilization
+Review Nurse
+—
+—
+11/01/23 0740
+11/01/23 1830
+Paige Berke, RN
+—
+Registered
+Nurse
+—
+—
+11/01/23 0700
+11/01/23 0833
+Alyssa Vargo
+—
+Certified Nursing
+Assistant
+—
+—
+11/01/23 0700
+11/01/23 0845
+Tracy N Corl, RN
+—
+Registered
+Nurse
+—
+—
+11/01/23 0651
+11/01/23 1930
+Evelyne E
+Quinn, PT
+—
+Physical
+Therapist
+—
+Physical Therapy
+11/01/23 0649
+11/01/23 0654
+Austin G
+Kemmet, RN
+—
+Registered
+Nurse
+—
+—
+10/31/23 1930
+11/01/23 0800
+Bianca J Gomez,
+
+RN
+—
+Registered
+Nurse
+—
+—
+10/31/23 1925
+11/01/23 0754
+Megan O Ware
+—
+Certified Nursing
+Assistant
+—
+—
+10/31/23 1900
+11/01/23 0730
+Genevieve M
+Bates,
+Pharmacist
+—
+Pharmacist
+—
+—
+10/31/23 0927
+10/31/23 1700
+Kathryn S Smith
+—
+Case Manager
+—
+—
+10/31/23 0840
+10/31/23 1710
+Sara Cook
+—
+Utilization
+Review Nurse
+—
+—
+10/31/23 0805
+10/31/23 1835
+Sarah M Elkin,
+
+PT
+—
+Physical
+Therapist
+—
+Physical Therapy
+10/31/23 0803
+10/31/23 1523
+Emily L
+Augustyniak,
+
+OTR
+—
+Occupational
+Therapist
+—
+Occupational
+Therapy
+10/31/23 0726
+10/31/23 1417
+Kris Bermudez
+—
+Certified Nursing
+—
+—
+10/31/23 0711
+10/31/23 1941
+Assistant
+
+
+
+ST FRANCIS_R_000007
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Treatment Team (continued)
+Events
+Printed by 23573 at 4/2/24  9:28 AM
+Page  8
+10/31/23 0750
+Morgan M
+Morrison, RN
+—
+Registered
+Nurse
+—
+—
+10/30/23 1908
+10/31/23 0807
+Megan O Ware
+—
+Certified Nursing
+Assistant
+—
+—
+10/30/23 1900
+10/31/23 0730
+Kris Bermudez
+—
+Certified Nursing
+Assistant
+—
+—
+10/30/23 1826
+10/30/23 1946
+John David
+Sargent, MD
+Surgery
+Anesthesiologist
+—
+Anesthesiology
+10/30/23 1511
+10/30/23 2111
+Jacqueline
+Mitongo
+Kabongo, MD
+Medicine
+Consulting
+Physician
+—
+Hospitalist
+10/30/23 1049
+—
+Charles Herbert
+Ripp, MD
+Surgery
+Anesthesiologist
+—
+Anesthesiology
+10/30/23 0912
+10/30/23 1512
+Douglas Carl
+Crowther, DO
+Surgery
+Surgeon
+—
+Orthopedic
+Surgery
+10/24/23 0815
+—
+Assistant
+Donna Geer, RN
+—
+Registered
+Nurse
+Admission at 10/30/2023 0614
+Unit: St. Francis Medical Center Main OR
+Room: Main OR
+Bed: Main OR
+Patient class: Hospital Outpatient Surgery
+—
+—
+10/31/23 0700
+10/31/23 1929
+Surgery at 10/30/2023 0841
+Unit: SFM Main OR
+Room: SFM OR 17
+Patient class: Hospital Outpatient Surgery
+Tonya M Lantto,
+
+PT
+Patient Update at 10/30/2023 1450
+Unit: St. Francis Medical Center Main OR
+Room: Main OR
+Bed: Main OR
+Patient class: Inpatient
+—
+Physical
+Therapist
+—
+Surgery at 10/30/2023 1459
+Unit: SFM Main OR
+Room: SFM OR 17
+Patient class: Inpatient
+Physical Therapy
+10/31/23 0653
+10/31/23 0654
+Transfer Out at 10/30/2023 1733
+Unit: St. Francis Medical Center Main OR
+Room: Main OR
+Bed: Main OR
+Patient class: Inpatient
+Melanie Glover,
+
+RN
+Transfer In at 10/30/2023 1733
+Unit: Centura St. Francis Hospital 5W IMC
+Room: 5512
+Bed: 5512-1
+Patient class: Inpatient
+—
+Utilization
+Review Nurse
+—
+—
+Patient Update at 11/1/2023 0453
+Unit: Centura St. Francis Hospital 5W IMC
+Room: 5512
+Bed: 5512-1
+Patient class: Inpatient
+10/31/23 0632
+10/31/23 1729
+Patient Update at 11/1/2023 0454
+Unit: Centura St. Francis Hospital 5W IMC
+Room: 5512
+Bed: 5512-1
+Patient class: Inpatient
+Youngran
+Caceres, RN
+—
+Registered
+Nurse
+—
+—
+10/30/23 1928
+
+
+
+ST FRANCIS_R_000008
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Events (continued)
+[No Transfer Center events, tasks, or approvals to display]
+[There is no Transfer Center request information to display]
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg
+
+
+
+CODE TIMELINE
+Code and Rapid Response Timelines
+No data selected in time range
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg
+OB Code White Timeline
+OB Code White Timeline
+No data selected in time range
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Medication List
+Printed by 23573 at 4/2/24  9:28 AM
+Page  9
+Transfer Out at 11/2/2023 2008
+Unit: St. Francis Medical Center Main OR
+Room: Main OR
+Bed: Main OR
+Patient class: Inpatient
+Transfer Out at 11/1/2023 0857
+Transfer In at 11/2/2023 2008
+Unit: St. Francis Medical Center 6N
+Ortho/Surg
+Room: 6406
+Bed: 6406-1
+Patient class: Inpatient
+Transfer In at 11/1/2023 0857
+Discharge at 11/3/2023 1800
+Unit: St. Francis Medical Center 6N
+Ortho/Surg
+Room: 6406
+Bed: 6406-1
+Patient class: Inpatient
+Unit: St. Francis Medical Center 6N
+Ortho/Surg
+Room: 6406
+Bed: 6406-1
+Patient class: Inpatient
+Transfer Out at 11/2/2023 1527
+Unit: St. Francis Medical Center 6N
+Ortho/Surg
+Room: 6406
+Bed: 6406-1
+Patient class: Inpatient
+Unit: Centura St. Francis Hospital 5W IMC
+Room: 5512
+Bed: 5512-1
+Transfer In at 11/2/2023 1527
+Unit: St. Francis Medical Center Main OR
+Room: Main OR
+Bed: Main OR
+Patient class: Inpatient
+Patient class: Inpatient
+Surgery at 11/2/2023 1527
+Unit: SFM Main OR
+Room: SFM OR 17
+Patient class: Inpatient
+
+
+
+ST FRANCIS_R_000009
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Medication List (continued)
+Printed by 23573 at 4/2/24  9:28 AM
+Page 10
+Medication List
+This report is for documentation purposes only. The patient should not follow medication instructions within. For accurate
+instructions regarding medications, the patient should instead consult their physician or after visit summary.
+Discharge Medication List
+Prior To Admission
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+nitroglycerin (NITROSTAT) 0.4 MG SL tablet
+Instructions: Place 0.4 mg under the tongue every 5 (five) minutes as needed for chest pain.
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+carbidopa-levodopa IR (SINEMET) 25-100 mg per tablet
+aspirin 81 MG chewable tablet
+Discontinued by: Brianne Elizabeth Wagner, NP
+Discontinued on: 11/3/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Chew 81 mg daily.
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+End date: 11/3/2023
+losartan (COZAAR) 100 MG tablet
+pramipexole (MIRAPEX) 0.25 MG tablet
+Instructions: Take 0.25 mg by mouth 3 (three) times a day.
+Entered by: Shelly R Roark, RN
+Entered on: 11/29/2018
+Instructions: Take 100 mg by mouth daily.
+finasteride (PROSCAR) 5 mg tablet
+Instructions: Take 5 mg by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+melatonin 5 mg tablet
+Instructions: Take 5 mg by mouth nightly.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+omega-3/dha/epa/fish oil (omega-3 fatty acid-fish oil) capsule
+Instructions: Take 1 capsule by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+Instructions: Take 2 tablets by mouth 3 times a day Indications: Parkinson's disease.
+cyanocobalamin 1000 MCG tablet
+Instructions: Take 1,000 mcg by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+atorvastatin (LIPITOR) 40 MG tablet
+Instructions: Take 40 mg by mouth daily.
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+carvedilol (COREG) 25 MG tablet
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+metFORMIN (GLUCOPHAGE) 500 MG tablet
+Instructions: Take 500 mg by mouth 2 (two) times a day with meals.
+
+
+
+ST FRANCIS_R_000010
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Medication List (continued)
+Printed by 23573 at 4/2/24  9:28 AM
+Page 11
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+carbidopa-levodopa IR (SINEMET) 25-100 mg per tablet
+metFORMIN (GLUCOPHAGE) 500 MG tablet
+Instructions: Take 500 mg by mouth 2 (two) times a day with meals.
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+nitroglycerin (NITROSTAT) 0.4 MG SL tablet
+Instructions: Place 0.4 mg under the tongue every 5 (five) minutes as needed for chest pain.
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+Instructions: Take 2 tablets by mouth 3 times a day Indications: Parkinson's disease.
+pramipexole (MIRAPEX) 0.25 MG tablet
+Instructions: Take 0.25 mg by mouth 3 (three) times a day.
+Entered by: Shelly R Roark, RN
+Entered on: 11/29/2018
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+gabapentin (NEURONTIN) 300 MG capsule
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 300 mg by mouth 3 times a day.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+finasteride (PROSCAR) 5 mg tablet
+Instructions: Take 5 mg by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+losartan (COZAAR) 100 MG tablet
+folic acid (FOLVITE) 400 MCG tablet
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 800 mcg by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+End date: 11/22/2023
+melatonin 5 mg tablet
+Instructions: Take 5 mg by mouth nightly.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+Instructions: Take 100 mg by mouth daily.
+triamcinolone (KENALOG) 0.1 % cream
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Apply 1 Application topically daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+Start date: 9/6/2023
+End date: 11/22/2023
+Entered by: Albert Juarez Jr., MA
+Entered on: 4/6/2017
+omega-3/dha/epa/fish oil (omega-3 fatty acid-fish oil) capsule
+Instructions: Take 1 capsule by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+Instructions: Take 25 mg by mouth daily.
+atorvastatin (LIPITOR) 40 MG tablet
+Instructions: Take 40 mg by mouth daily.
+
+
+
+ST FRANCIS_R_000011
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Medication List (continued)
+Printed by 23573 at 4/2/24  9:28 AM
+Page 12
+magnesium 250 mg tablet
+potassium chloride (KLOR-CON) 10 MEQ ER tablet
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 10 mEq by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+End date: 11/22/2023
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+oxyCODONE (ROXICODONE) 5 MG immediate release tablet
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 1-2 tablets (5-10 mg) by mouth every 6 hours as needed for severe pain for up to 7 days. Max Daily Amount:
+40 mg
+Authorized by: Brianne Elizabeth Wagner, NP
+Ordered on: 10/30/2023
+Start date: 10/30/2023
+End date: 11/22/2023
+Quantity: 40 tablet
+Refill: 1 refill by 10/28/2024
+Reason for discontinuation: Stop Taking at Discharge
+methocarbamoL (ROBAXIN) 750 MG tablet
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 1 tablet (750 mg) by mouth every 8 hours as needed for muscle spasms for up to 10 days.
+Authorized by: Brianne Elizabeth Wagner, NP
+Ordered on: 10/30/2023
+Start date: 10/30/2023
+Quantity: 30 each
+Refill: 1 refill by 10/28/2024
+Instructions: Take 500 mg by mouth daily.
+cephalexin (KEFLEX) 500 MG capsule
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 1 capsule (500 mg) by mouth 3 times a day for 5 days.
+Authorized by: Brianne Elizabeth Wagner, NP
+Ordered on: 10/30/2023
+Start date: 10/30/2023
+End date: 11/22/2023
+Quantity: 15 capsule
+Refill: 1 refill by 10/28/2024
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+polyethylene glycol (GLYCOLAX) 17 gram packet
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 17 g by mouth daily.
+Authorized by: Douglas Carl Crowther, DO
+Ordered on: 11/3/2023
+Start date: 11/3/2023
+End date: 11/22/2023
+End date: 11/22/2023
+tamsulosin (FLOMAX) 0.4 mg capsule
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 1 capsule (0.4 mg) by mouth daily.
+Authorized by: Douglas Carl Crowther, DO
+Ordered on: 11/3/2023
+Start date: 11/3/2023
+End date: 11/22/2023
+Quantity: 30 capsule
+Refill: No refills remaining
+amLODIPine (NORVASC) 5 MG tablet
+cyanocobalamin 1000 MCG tablet
+Instructions: Take 1,000 mcg by mouth daily.
+Entered by: Nicole Alexander, RN
+Entered on: 10/25/2023
+
+
+
+ST FRANCIS_R_000012
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Medication List (continued)
+H&P Notes
+I have reviewed the H&P, the patient was examined and NO change has occurred in the patient's H&P or condition
+since the H&P was completed
+With regards to possible operative intervention, risks and benefits of surgery were thoroughly discussed with the
+patient. The potential risks of operative intervention discussed with the patient included but were not limited to the
+general operative risks of death, bleeding, and infection. In addition, the patient was advised that surgical procedures
+involving this segment of the spine could also result in paralysis, loss of bowel and bladder function, loss of sexual
+function, as well as changes in sensation in the extremities that could include pain, numbness, tingling, and burning
+which could be temporary or permanent. The patient was advised of the possibility of a spinal fluid leak which could
+require additional intervention. The patient was counseled that the surgical procedure may fail to relieve his or her
+symptoms or could potentially make his or her symptoms worse. The potential benefit of operative intervention would
+be to achieve a reduction in the severity of the patient's symptoms.
+Douglas Carl Crowther, DO
+Printed by 23573 at 4/2/24  9:28 AM
+Page 13
+Electronically signed by Douglas Carl Crowther, DO at 10/30/2023  8:17 AM
+H&P - Filed on 10/31/2023 1550
+H&P by Douglas Carl Crowther, DO at 10/30/2023 0817
+
+Editor: Douglas Carl Crowther, DO (Physician)
+Stopped in Visit
+Version 1 of 1
+Version 1 of 1
+
+Author: Douglas Carl Crowther, DO
+Service: Orthopedics
+Author Type: Physician
+Filed: 10/30/2023  8:17 AM
+Date of Service: 10/30/2023  8:17 AM
+Status: Signed
+Discontinued on: 11/3/2023
+Reason for discontinuation: Stop Taking at Discharge
+Discontinued by: Jack Nicholas Torres, MD
+Discontinued on: 11/22/2023
+Reason for discontinuation: Stop Taking at Discharge
+Instructions: Take 1 tablet (5 mg) by mouth daily.
+Authorized by: Camilla Monteiro, DO
+Ordered on: 11/3/2023
+Start date: 11/3/2023
+Scan on 10/31/2023  3:50 PM: CROWTHER, DOUGLAS CARL (below)
+End date: 11/22/2023
+Quantity: 30 tablet
+Refill: 1 refill by 11/1/2024
+aspirin 81 MG chewable tablet
+Discontinued by: Brianne Elizabeth Wagner, NP
+
+
+
+ST FRANCIS_R_000013
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+H&P Notes (continued)
+Printed by 23573 at 4/2/24  9:28 AM
+Page 14
+
+
+
+ST FRANCIS_R_000014
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+H&P Notes (continued)
+Printed by 23573 at 4/2/24  9:28 AM
+Page 15
+
+
+
+ST FRANCIS_R_000015
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+H&P Notes (continued)
+Discharge Summary Note
+Printed by 23573 at 4/2/24  9:28 AM
+Page 16
+
+
+
+ST FRANCIS_R_000016
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Discharge Summary Note (continued)
+Discharge Summary
+Patient Name:         Jesus Michael Gallardo Jr.
+Date of Birth:           5/1/1942
+Medical Record #:   CEUL0641381
+Admitting Provider: Douglas Carl Crowther, DO
+Discharge Provider: No att. providers found
+Primary Care Physician at Discharge: Joseph Thomas McGarry, MD 719-784-4816
+Admission Date: 10/30/2023     Discharge Date: 11/3/23
+
+
+
+DISCHARGE DIAGNOSES
+Diagnosis
+
+POA
+• Primary Diagnosis  :S/P insertion of spinal cord stimulator [Z96.89]
+Not Applicable
+• Type 2 diabetes mellitus, without long-term current use of insulin
+
+
+
+(CMS/HCC) [E11.9]
+Yes
+• Hypertension [I10]
+Yes
+• Hyperlipidemia [E78.5]
+Yes
+• Coronary artery disease involving native coronary artery of native
+heart [I25.10]
+Yes
+• History of BPH [Z87.438]
+Yes
+• Parkinson's disease [G20.A1]
+Yes
+• Gastroesophageal reflux disease without esophagitis [K21.9]
+Yes
+Resolved Hospital Problems
+No resolved problems to display.
+Operative Procedures Performed
+Procedure(s):
+
+
+
+PERMANENT SPINAL CORD STIMULATOR -10/30/2023
+Evacuation of epidural hematoma and removal of spinal cord stimulator-10/30/2023
+Permanent placement of spinal cord stimulator -11/2/2023
+Thoracic hemilaminotomy bilateral T6, T7, T8, T9 and evacuation of hematoma 11/2/2023
+Discharge Disposition:   *Rehab Facility -- Internal
+Details of Hospital Stay
+Printed by 23573 at 4/2/24  9:28 AM
+Page 17
+Discharge Summary by Douglas Carl Crowther, DO at 11/3/2023 1800
+
+Author: Douglas Carl Crowther, DO
+Service: Orthopedics
+Author Type: Physician
+Filed: 11/11/2023  8:35 AM
+Date of Service: 11/3/2023  6:00 PM
+Status: Signed
+
+Editor: Douglas Carl Crowther, DO (Physician)
+Version 1 of 1
+
+
+
+ST FRANCIS_R_000017
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Discharge Summary Note (continued)
+Presenting Problem/History of Present Illness
+This 81-year-old male who has been suffering from chronic pain syndrome and chronic neuropathy has failed
+nonsurgical treatment options and elected to proceed with placement of permanent spinal cord stimulator after a
+successful trial spinal cord stimulator.
+Hospital Course
+Patient arrived to the hospital on 10/30/2023.  Patient had not taken her morning blood pressure medication and had
+slightly elevated blood pressure and preoperative area.  Anesthesia gave approval and clearance to move forward
+with surgical intervention is felt that blood pressure could be well controlled during surgical procedure with appropriate
+medication.
+The surgical procedure and placement of the spinal cord stimulator was uneventful and completed without
+complication.  Patient was transferred to the PACU and was doing well within recovery.  Approximately 3 hours post
+surgery patient was standing at bedside without complaints of leg weakness or numbness.  Within the next hour, at 4
+hours postop my staff was notified that the patient was having weakness and decreased sensation in his lower
+extremities.  I immediately presented to the hospital for evaluation of the patient.  Patient was without motor function of
+his bilateral lower extremities as well as loss of sensation.  At this point the patient was taken back to the operating
+room emergently for evacuation of suspected epidural hematoma and removal of spinal cord stimulator.  During his
+postoperative course in PACU patient had unresponsive blood pressure.  Patient had consistent blood pressure
+systolic 180- 240.  Multiple attempts by anesthesia as well as consult with hospitalist with different medications to treat
+patient's blood pressure.  It is presumed that the patient's elevated systolic blood pressure postoperatively contributed
+to development of epidural hematoma at the surgical field.
+Post procedure patient noticed improvement of his symptoms continued to have some weakness of his lower
+extremities.  A subsequent MRI was obtained this was delayed due to the fact that there was concern for metal within
+the patient's body and multiple attempts at MRI were completed.  MRI was finally obtained there was found to be an
+epidural hematoma more cephalad to the surgical site.  At this point time after discussion with neurosurgery colleague
+best surgical solution would be to return to the OR for evacuation of epidural hematoma via bilateral hemilaminotomies
+as well as placement of permanent spinal cord stimulator for treatment of chronic pain and neuropathy that would
+ensue
+Clinical Indicators: Impaired balance/sensation, weakness to core and BLEs. 9 x 14 x 90 mm (AP x TV x CC) dorsal
+epidural hematoma extending from T5-T9, largest at T8 … associated severe canal stenosis, mass effect on the spinal
+cord spanning T7-T8. Longitudinal central cord edema extends from T6-T10.
+Risk Factor(s): Severe canal stenosis, mass effect on the spinal cord spanning T7-T8 from epidural hematoma likely
+due to elevated systolic blood pressure postoperatively..
+Treatment: IVF LR bolus/maintenance, incision/drainage/evacuation,  IV Ancef, IV Vancomycin, PT/OT evaluations, IV
+dexamethasone, monitor labs/VS’s.
+Discharge Condition: Stable
+Weight: 86.2 kg (190 lb)
+Discharge instructions discussed with: Patient, Family, and patient discharged to inpatient rehab for aggressive
+therapies working on strength and conditioning of bilateral lower extremities.
+Active Issues Requiring Follow-up
+Spinal cord injury after epidural hematoma
+Outpatient Follow-Up
+Printed by 23573 at 4/2/24  9:28 AM
+Page 18
+
+
+
+ST FRANCIS_R_000018
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Discharge Summary Note (continued)
+Patient to follow-up with:
+Brianne Elizabeth Wagner, NP
+Specialty: Nurse Practitioner, Orthopedic Surgery
+2446 Research Pkwy
+Ste 200
+Colorado Springs CO 80920-1087
+Phone: 719-623-1050
+Capron Neuro and Trauma Rehabilitation Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923
+Phone: 719-571-6600
+Joseph Thomas McGarry, MD
+Specialty: Family Medicine
+501 W 5th St
+Florence CO 81226-1226
+Phone: 719-784-4816
+Test Results Pending at Discharge
+None
+Clinical Notes (group 1 of 2)
+Chronic condition.  Continue Lipitor 40 mg daily.
+Chronic condition with unknown HA1c. Home regimen includes metformin 500 mg BID, hold while inpatient
+Continue SSI ac with FSBG and hypoglycemia protocol
+Printed by 23573 at 4/2/24  9:28 AM
+Page 19
+Electronically signed by Jacqueline Mitongo Kabongo, MD at 10/31/2023  2:28 PM
+Assessment & Plan Note
+Electronically signed by Jacqueline Mitongo Kabongo, MD at 10/31/2023  2:26 PM
+Electronically signed by Douglas Carl Crowther, DO at 11/11/2023  8:35 AM
+Jacqueline Mitongo Kabongo, MD at 10/30/2023 1345
+
+Author: Jacqueline Mitongo Kabongo, MD
+Service: Hospitalist
+Jacqueline Mitongo Kabongo, MD at 10/30/2023 1346
+
+Author: Jacqueline Mitongo Kabongo, MD
+Service: Hospitalist
+Author Type: Physician
+Filed: 10/31/2023  2:26 PM
+Date of Service: 10/30/2023  1:46 PM
+Status: Edited
+
+Editor: Jacqueline Mitongo Kabongo, MD (Physician)
+Related Problem: Diabetes mellitus, type II (CMS/HCC)
+Author Type: Physician
+Filed: 10/31/2023  2:28 PM
+Date of Service: 10/30/2023  1:45 PM
+Status: Edited
+
+Editor: Jacqueline Mitongo Kabongo, MD (Physician)
+Related Problem: Hyperlipidemia
+
+
+
+ST FRANCIS_R_000019
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Clinical Notes (group 1 of 2) (continued)
+Chronic condition.  Continue Sinemet and Mirapex.
+Noted history of MI ~2012, S/p PCI mid-LCx to OM1
+Follows with Dr. Jenny Lee with Pueblo Cardiology Associates, during last visit 9/2023 a stress test was offered to the
+patient to evaluate 1 episode of atypical chest pain. However, the patient declined.
+ASA held, resume when appropraite form surgical standpoint.
+Continue medical management with carvedilol, losartan, atorvastatin
+Troponin normal.
+EKG w/o ST deviation or TWI.
+Ok to discontinue telemetry.
+Chronic condition.  Patient was noted to have elevated BP reading post-op -> hypertensive urgency. This is likely due
+to epidural compression by hematoma. BP readings improved with evacuation of hematoma.
+He received as needed labetalol and scheduled medications on 10/30.
+• Continue carvedilol and losartan. Will add amlodipine 5mg for better BP control
+• Monitor BP readings.
+Chronic condition. Continue Proscar.
+Patient with urinary retention status post surgical intervention.
+• Started on flomax 0.4 mg daily, continue
+• Monitor I&Os
+Printed by 23573 at 4/2/24  9:28 AM
+Page 20
+Electronically signed by Jacqueline Mitongo Kabongo, MD at 10/31/2023  2:31 PM
+Electronically signed by Camilla Monteiro, DO at 11/3/2023  9:41 AM
+Electronically signed by Camilla Monteiro, DO at 11/3/2023  9:42 AM
+Electronically signed by Camilla Monteiro, DO at 11/2/2023 10:11 AM
+Filed: 11/2/2023 10:11 AM
+Date of Service: 10/30/2023  1:52 PM
+Status: Edited
+
+Editor: Camilla Monteiro, DO (Physician)
+Related Problem: Coronary artery disease involving native coronary artery of native heart
+Date of Service: 10/30/2023  1:47 PM
+Status: Edited
+
+Editor: Jacqueline Mitongo Kabongo, MD (Physician)
+Related Problem: Parkinson's disease
+Camilla Monteiro, DO at 10/30/2023 1353
+
+Author: Camilla Monteiro, DO
+Service: Hospitalist
+Author Type: Physician
+Filed: 11/3/2023  9:41 AM
+Date of Service: 10/30/2023  1:53 PM
+Status: Edited
+
+Editor: Camilla Monteiro, DO (Physician)
+Related Problem: Hypertension
+Jacqueline Mitongo Kabongo, MD at 10/30/2023 1347
+
+Author: Jacqueline Mitongo Kabongo, MD
+Service: Hospitalist
+Author Type: Physician
+Camilla Monteiro, DO at 10/30/2023 1354
+
+Author: Camilla Monteiro, DO
+Service: Hospitalist
+Author Type: Physician
+Filed: 11/3/2023  9:42 AM
+Date of Service: 10/30/2023  1:54 PM
+Status: Edited
+
+Editor: Camilla Monteiro, DO (Physician)
+Related Problem: History of BPH
+Filed: 10/31/2023  2:31 PM
+Camilla Monteiro, DO at 10/30/2023 1352
+
+Author: Camilla Monteiro, DO
+Service: Hospitalist
+Author Type: Physician
+
+
+
+ST FRANCIS_R_000020
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Clinical Notes (group 1 of 2) (continued)
+Patient with history of chronic back pain and Parkinson disease with neuropathy.
+S/p thoracic spine hematoma evacuation and spinal cord stimulator removal by Dr. Crowther on 10/30/23.
+Postoperatively in PACU, the patient was endorsing bilateral leg numbness and paralysis.  RN immediately notified the
+surgery team. Patient back to OR for evacuation of suspected hematoma.
+Now s/p bilateral thoracic hemilaminotomy T6-T8, evacuation of epidural hematoma, placement of spinal cord
+stimulator paddles and battery on 11/2
+• Postoperative care per Orthopedics/primary (pain control, drain care if applicable, activity restrictions, diet, DVT
+prophylaxis)
+• Continue gabapentin resumed by primary service
+• PT/OT eval and treat.
+• Fall risk precautions.
+Patient with epigastric abdominal pain postoperatively, no chest pain or shortness of breath.
+EKG and troponin none suggestive of ACS.
+Continue Protonix 40 mg daily.
+10/31/23 1434
+Readmission
+Readmission Addressed
+Not applicable
+Preadmission Activities of Daily Living
+Functional Status
+Independent
+Living Arrangement
+House;Lives with someone
+(Lives with spouse, in a two-level home with stairs.
+Has 5 steps to enter home.)
+Ambulation
+Independent
+Dressing
+Independent
+Feeding
+Independent
+Bathing/Grooming
+No assistance
+Printed by 23573 at 4/2/24  9:28 AM
+Page 21
+CM/Transition
+Electronically signed by Camilla Monteiro, DO at 11/3/2023  9:40 AM
+Electronically signed by Camilla Monteiro, DO at 11/1/2023  9:22 AM
+Related Problem: S/P insertion of spinal cord stimulator
+Camilla Monteiro, DO at 10/30/2023 1523
+Kathryn S Smith at 10/31/2023 1435
+
+Author: Kathryn S Smith
+Service: Case Management
+Author Type: Case Manager
+Filed: 10/31/2023  2:35 PM
+Date of Service: 10/31/2023  2:35 PM
+Status: Signed
+
+Editor: Kathryn S Smith (Case Manager)
+
+Author: Camilla Monteiro, DO
+Service: Hospitalist
+Author Type: Physician
+Camilla Monteiro, DO at 10/30/2023 1526
+
+Author: Camilla Monteiro, DO
+Service: Hospitalist
+Author Type: Physician
+Filed: 11/1/2023  9:22 AM
+Date of Service: 10/30/2023  3:26 PM
+Status: Edited
+
+Editor: Camilla Monteiro, DO (Physician)
+Related Problem: Gastroesophageal reflux disease without esophagitis
+Filed: 11/3/2023  9:40 AM
+Date of Service: 10/30/2023  3:23 PM
+Status: Edited
+
+Editor: Camilla Monteiro, DO (Physician)
+
+
+
+ST FRANCIS_R_000021
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Clinical Notes (group 1 of 2) (continued)
+Behavior
+Oriented
+Communication
+Can write;Talks;Understands speaking;Understands
+English
+Available Home Equipment
+Walker;Cane;Wheelchair-manual;Other (Comment)
+(Shower chair with back.)
+Family and Support
+Name of Designated Post-
+Discharge Caregiver
+Self– Jesus
+Support Systems
+Spouse/significant other;Children
+10/31/23 1435
+Support and Capacity
+Patient expects to be discharged
+to:
+Anticipate possible discharge to inpatient Capron
+rehab per PT eval and recommendation.
+Living Arrangements
+Spouse/significant other
+(Lives with spouse, in a two-level home with stairs.
+Has 5 steps to enter home.)
+Support Systems
+Spouse/significant other;Children
+Assistance Needed
+Max assist
+Capacity for Self-Care Post
+Discharge
+Maximum assistance
+Can patient return to previous
+living arrangement?
+No
+New PCP Referral Needed?
+No
+PCP Comment
+PCP–Joseph Thomas McGarry, MD
+DC Planning Contacts
+Name of Designated Post-
+Discharge Caregiver
+Self– Jesus
+Contact information for caregiver
+identified
+719-784-4443
+Patient declined/unable to
+provide name of caregiver
+
+N/A
+Post Acute
+Proposed Post Acute Disposition Acute Rehab Center
+Patient/rep confirmed and
+reviewed goals, preferences,
+and DC plan?
+Yes
+Provider confirmed and reviewed
+goals, preferences, and DC
+plan?
+Yes
+The CM/SW considered patient
+Yes
+Printed by 23573 at 4/2/24  9:28 AM
+Page 22
+Electronically signed by Kathryn S Smith at 10/31/2023  2:35 PM
+Kathryn S Smith at 10/31/2023 1437
+
+Author: Kathryn S Smith
+Service: Case Management
+Author Type: Case Manager
+Filed: 10/31/2023  4:15 PM
+Date of Service: 10/31/2023  2:37 PM
+Status: Addendum
+
+Editor: Kathryn S Smith (Case Manager)
+
+
+
+ST FRANCIS_R_000022
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Clinical Notes (group 1 of 2) (continued)
+decisional capacity when making
+post DC plans
+Transportation
+Does the patient need discharge
+transport arranged?
+No
+1613 Pt stated to CM, " my wife and I talked re: discharge plan, and we both agreed to wanting inpt Capron Rehab".
+Choice form signed and placed in chart.
+Charge RN placed order for Consult to Capron Rehab.
+11/01/23 1045
+Post Acute
+Proposed Post Acute Disposition Acute Rehab Center
+Barriers to Discharge
+Other (comment)
+(OT pending)
+DC Plan Update
+Capron referral pending
+Patient accepted to IRF at Capron once cleared medically.
+11/02/23 1131
+Support and Capacity
+Patient expects to be discharged
+to:
+Capron at d/c
+Living Arrangements
+Spouse/significant other
+Support Systems
+Spouse/significant other;Children
+Capacity for Self-Care Post
+Discharge
+Maximum assistance
+Printed by 23573 at 4/2/24  9:28 AM
+Page 23
+Electronically signed by Kathryn S Smith at 10/31/2023  4:15 PM
+Electronically signed by Kerri Tremaroli at 11/2/2023  7:03 AM
+Electronically signed by Tracy M Richardson, RN at 11/1/2023 10:46 AM
+Status: Signed
+
+Editor: Kerri Tremaroli (Case Manager)
+Tracy M Richardson, RN at 11/1/2023 1046
+
+Author: Tracy M Richardson, RN
+Service: Case Management
+Author Type: Registered Nurse
+Erica Czufin, LCSW at 11/2/2023 1134
+
+Author: Erica Czufin, LCSW
+Service: Case Management
+Author Type: Social Worker
+Filed: 11/2/2023 11:34 AM
+Date of Service: 11/2/2023 11:34 AM
+Status: Signed
+
+Editor: Erica Czufin, LCSW (Social Worker)
+Filed: 11/1/2023 10:46 AM
+Date of Service: 11/1/2023 10:46 AM
+Status: Signed
+
+Editor: Tracy M Richardson, RN (Registered Nurse)
+Kerri Tremaroli at 11/2/2023 0702
+
+Author: Kerri Tremaroli
+Service: Case Management
+Author Type: Case Manager
+Filed: 11/2/2023  7:03 AM
+Date of Service: 11/2/2023  7:02 AM
+
+
+
+ST FRANCIS_R_000023
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Clinical Notes (group 1 of 2) (continued)
+Can patient return to previous
+living arrangement?
+No
+PCP Comment
+Joseph Thomas McGarry, MD
+DC Planning Contacts
+DC Plan discussed and
+accepted by designated
+caregiver?
+Spoke with patient and spouse at bedside to confirm
+d/c plan
+Post Acute
+Proposed Post Acute Disposition Acute Rehab Center
+Name of accepting person at
+facility/agency/liaison
+Kerri T
+Care Facility Name and Address Capron 6001 E Woodmen Rd COS CO
+Barriers to Discharge
+(surgery scheduled 11/2 at 1600 laminectomy)
+Patient/rep confirmed and
+reviewed goals, preferences,
+and DC plan?
+Yes
+Provider confirmed and reviewed
+goals, preferences, and DC
+plan?
+Yes
+The CM/SW considered patient
+decisional capacity when making
+post DC plans
+Yes
+DC Plan Update
+Per Kerri in admissions patient is accepted at Capron.
+SW to follolw post surgery to transfer patient to Capron
+when medically ready for d/c. Met with patient and
+spouse who have no questions at this time.
+Transportation
+Does the patient need discharge
+transport arranged?
+No
+11/03/23 1154
+Support and Capacity
+Patient expects to be discharged
+to:
+Capron at d/c
+Living Arrangements
+Spouse/significant other
+Support Systems
+Spouse/significant other;Children
+Capacity for Self-Care Post
+Discharge
+Moderate assistance
+Can patient return to previous
+living arrangement?
+No
+Printed by 23573 at 4/2/24  9:28 AM
+Page 24
+Electronically signed by Erica Czufin, LCSW at 11/2/2023 11:34 AM
+
+Author: Erica Czufin, LCSW
+Service: Case Management
+Author Type: Social Worker
+Filed: 11/3/2023  3:29 PM
+Date of Service: 11/3/2023 11:58 AM
+Status: Addendum
+
+Editor: Erica Czufin, LCSW (Social Worker)
+Erica Czufin, LCSW at 11/3/2023 1158
+
+
+
+ST FRANCIS_R_000024
+
+St. Francis Medical Center
+6001 E Woodmen Rd
+Colorado Springs CO 80923-2601
+Gallardo, Jesus Michael Jr. "Jes"
+MRN: CEUL0641381, DOB: 5/1/1942, Sex: M
+Adm: 10/30/2023, D/C: 11/3/2023
+
+10/30/2023 - Admission (Discharged) in St. Francis Medical Center 6N Ortho/Surg (continued)
+Clinical Notes (group 1 of 2) (continued)
+Post Acute
+Proposed Post Acute Disposition Acute Rehab Center
+Name of accepting person at
+facility/agency/liaison
+Janice
+Care Facility Name and Address Capron 6001 E Woodmen Rd COS CO
+Provider confirmed and reviewed
+goals, preferences, and DC
+plan?
+Yes
+The CM/SW considered patient
+decisional capacity when making
+post DC plans
+Yes
+DC Plan Update
+Per Janice in admissions patient has a bed available
+tomorrow for admission to Capron.  Possibility for
+admission later today pending other admits, Janice to
+notify CM asap.
+1530 UPDATE: Per Admissions patient now has a ready bed at Capron. Spoke with bedside RN and Brianne Wagner,
+agreeable for transfer today with foley(Capron agreeable as well).
+Printed by 23573 at 4/2/24  9:28 AM
+Page 25
+Electronically signed by Erica Czufin, LCSW at 11/3/2023  3:29 PM
+Consults
+
+Author: Lauren Brianna Prebish, PA-C
+Service: Hospitalist
+Author Type: Physician Assistant
+Filed: 10/30/2023  3:28 PM
+Date of Service: 10/30/2023  1:26 PM
+Status: Attested
+
+Editor: Lauren Brianna Prebish, PA-C (Physician Assistant)
+Cosigner: Jacqueline Mitongo Kabongo,
+MD at 10/30/2023  4:14 PM
+Lauren Brianna Prebish, PA-C at 10/30/2023 1326
+Consult Orders
+1. Consult to Hospitalist [565540883] ordered by Brianne Elizabeth Wagner, NP at 10/30/23 1049
+
+
+
+ST FRANCIS_R_000025
+
